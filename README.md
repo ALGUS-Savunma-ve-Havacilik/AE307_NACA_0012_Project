@@ -1,6 +1,6 @@
 # Subsonic NACA (0012/4412) Airfoil Analysis
 
-## :space_invader: ERAU AE307 :space_invader:
+## :airplane: ERAU AE307 :airplane:
 
 
 **NACA Comaparison - XFLR5**
